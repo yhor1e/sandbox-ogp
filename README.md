@@ -31,6 +31,7 @@ http://qiita.com/taiyop/items/050c6749fb693dae8f82
 ![debugger1](./ogp-debugger-warning-before.png)
 2. `ogp:title`、`ogp:url` をそれぞれ改善して、再度、デバッガーを使用した結果
 ![debugger2](./ogp-debugger-warning-after.png)
+改善内容は、https://github.com/yhor1e/sandbox-ogp/commit/d40cadb6c4c16de0b7b2871f6fdeffd824e4d95f#diff-44a9d9c0d5d772ac12343d19e4571c71
 3. og のそれぞれのプロパティも意図した通り認識されている。
 ![debugger3](./open-graph-properties.png)
 4. Facebook でのシェアプレビュー。綺麗に表示されている模様。
