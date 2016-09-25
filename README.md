@@ -36,3 +36,10 @@ http://qiita.com/taiyop/items/050c6749fb693dae8f82
 4. Facebook でのシェアプレビュー。綺麗に表示されている模様。
 ![debugger4](./facebook-share-preview.png)
 
+
+## resouce
+
+次の画像を使用。
+
+https://photo.kankouyohou.com/photo/1/?img=0  
+【北海道 能取岬】、経済産業省、クリエイティブ・コモンズ・ライセンス 表示4.0 国際
