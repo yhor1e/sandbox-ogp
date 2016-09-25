@@ -26,18 +26,11 @@ http://qiita.com/taiyop/items/050c6749fb693dae8f82
 ## note
 
 1. using-opg.html に対して、デバッガーを使用した結果
-
 ![debugger1](./ogp-debugger-warning-before.png)
-
 2. `ogp:title`、`ogp:url` をそれぞれ改善して、再度、デバッガーを使用した結果
-
 ![debugger2](./ogp-debugger-warning-after.png)
-
 3. og のそれぞれのプロパティも意図した通り認識されている。
-
 ![debugger3](./open-graph-properties.png)
-
 4. Facebook でのシェアプレビュー。綺麗に表示されている模様。
-
 ![debugger4](./facebook-share-preview.png)
 
