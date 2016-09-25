@@ -2,6 +2,8 @@
 
 OGP について、試すリポジトリ。
 
+作成したウェブページは、https://yhor1e.github.io/sandbox-ogp/ で公開。
+
 OGP については、次を参照。
 
 http://ogp.me/
