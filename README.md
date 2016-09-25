@@ -38,7 +38,7 @@ http://qiita.com/taiyop/items/050c6749fb693dae8f82
 ![debugger4](./facebook-share-preview.png)
 
 
-## resouce
+## resource
 
 次の画像を使用。
 
